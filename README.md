@@ -19,7 +19,7 @@ GdGohan's github:
 
 https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion
 
-(I am the ONLY ONE WHO'VE USED claude, & NOT ANY OF THESE PEOPLE)
+(I am the ONLY ONE WHO'VE USED Ai, & NOT ANY OF THESE PEOPLE)
 ##
 Please note that you can't install any of these as an update over any other version
 
