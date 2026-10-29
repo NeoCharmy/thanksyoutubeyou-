@@ -55,7 +55,7 @@ https://drive.google.com/file/d/12B6Baq2f5zfWh-cJgPzlJXa4k9su-9xo/view?usp=shari
 the obb that we've been used which have some fixes along with this music fix:
 
 https://drive.google.com/file/d/1hBuECPqq6uXVtsO9A58LmZxCBWH93t-Z/view
-—-
+##
 This video was my ONLY AI project.
 
 check my other works if you want:
@@ -65,7 +65,7 @@ https://github.com/NeoCharmy/sonic-2020
 https://github.com/NeoCharmy/runnersadventure
 
 small projects but better than nothing
-—-
+##
 
 another online gameplay from sonic racing transformed:
 
