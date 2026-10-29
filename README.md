@@ -55,6 +55,10 @@ https://drive.google.com/file/d/12B6Baq2f5zfWh-cJgPzlJXa4k9su-9xo/view?usp=shari
 the obb that we've been used which have some fixes along with this music fix:
 
 https://drive.google.com/file/d/1hBuECPqq6uXVtsO9A58LmZxCBWH93t-Z/view
+
+VineOS:
+
+https://github.com/Hexadecinull/VineOS
 ##
 This video was my ONLY AI project.
 
