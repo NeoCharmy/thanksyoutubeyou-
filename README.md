@@ -20,6 +20,8 @@ GdGohan's github:
 https://github.com/GdGohan/SonicRacingTransformedAndroidUpdate-NewVersion
 
 ##
+Please note that you can't install any of these as an update over any other version
+
 DOWNLOADS:
 
 Sonic 4 Episode 1:
