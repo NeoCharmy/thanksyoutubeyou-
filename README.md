@@ -59,6 +59,14 @@ the obb that we've been used which have some fixes along with this music fix:
 
 https://drive.google.com/file/d/1hBuECPqq6uXVtsO9A58LmZxCBWH93t-Z/view
 
+zero tier one:
+
+https://www.zerotier.com
+
+my server:
+
+88c5b1f339bfea7a
+
 VineOS:
 
 https://github.com/Hexadecinull/VineOS
