@@ -74,7 +74,7 @@ VineOS:
 
 https://github.com/Hexadecinull/VineOS
 ##
-This video was my ONLY AI project.
+This was my ONLY AI project.
 
 check my other works if you want:
 
