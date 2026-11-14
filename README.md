@@ -45,6 +45,8 @@ Sonic & All Stars Racing Transformed 16:9 (if you encountered the mis-place-touc
 
 https://drive.google.com/file/d/1OyViIibJsL28ewjlL3hi-ZwSTi3PYJvv/view?usp=sharing
 
+If you got black screen on sonic racing transformed, open it offline.
+
 example site for the sonic 4 THD obb file:
 
 https://asandownload.ir/mobile/entry/4733/
