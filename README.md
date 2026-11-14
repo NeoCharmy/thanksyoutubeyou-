@@ -54,7 +54,7 @@ https://asandownload.ir/mobile/entry/4733/
 as I said, the obb files are the same as before, but I also asked claude to fix the egg hangar missing music from sonic racing transformed (not tested on every available device), which you can try it by replacing it inside the obb with this address:
 data\common\data\sound
 
-The egg hangar music fix download:
+The egg hangar music fix download by claude:
 
 https://drive.google.com/file/d/12B6Baq2f5zfWh-cJgPzlJXa4k9su-9xo/view?usp=sharing
 
